@@ -10,7 +10,7 @@
 
 ## 🚀 Live Demo
 
-Check out the live demo here: [Live Demo](http://gatchez.kesug.com)
+Check out the live demo here: [Live Demo](https://gatchez.github.io/quote-generator/)
 
 ---
 
