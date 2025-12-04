@@ -1,7 +1,7 @@
 # 💡 Inspirational Quote Generator
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/gatchez/quote-generator)
-![License](https://img.shields.io/github/license/gatchez/quote-generator)
+![License](https://img.shields.io/badge/license-MIT-green) 
 ![GitHub last commit](https://img.shields.io/github/last-commit/gatchez/quote-generator)
 ![Issues](https://img.shields.io/github/issues/gatchez/quote-generator)
 ![Contributors](https://img.shields.io/github/contributors/gatchez/quote-generator)
